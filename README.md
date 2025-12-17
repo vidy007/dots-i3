@@ -4,7 +4,8 @@ Personal config for a lightweight window manager.
 **showcase**: soon(tm)
 ---
 **app stack** (bare minimum):
-```alacritty dunst eww feh i3-gaps polybar rofi
+```
+alacritty dunst eww feh i3-gaps polybar rofi
 ```
 ---
 **wallpaper**: taken from [here](https://github.com/rose-pine/wallpapers)
