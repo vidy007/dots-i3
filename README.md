@@ -6,6 +6,8 @@ A config for a lightweight window manager.
 > 
 > Again, I WILL NOT MAKE MORE WORKSPACES BECAUSE YOU LIKE IT, JUST FORK THIS REPO AND DO IT YOURSELF.
 
+
+
 ---
 **showcase**: soon(tm)
 
@@ -17,5 +19,14 @@ alacritty dunst eww feh i3-gaps polybar rofi
 **wallpaper**: taken from [here](https://github.com/rose-pine/wallpapers)
 
 **miscellaneous**:
-*cmd shell: zsh + pure theme // text editor: neovim (config soon) // pfetch*
+*zsh + pure theme // neovim // pfetch*
 * cpu usage: <1%, 0.7w
+
+**troubleshooting**:
+
+— *polybar workspaces no worky*
+
+change the following line in its config:
+  ```
+  modules-left: dwm <- replace with i3
+  ```
