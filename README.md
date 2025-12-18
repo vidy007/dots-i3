@@ -4,7 +4,7 @@ A config for a lightweight window manager.
 > [!WARNING]
 > This is my **personal** desktop configuration, which means i will NOT accept PRs and issues about it's look and feel.
 > 
-> Again, I WILL NOT MAKE MORE WORKSPACES BECAUSE YOU LIKE IT, JUST FORK THIS REPO AND MAKE IT YOURSELF.
+> Again, I WILL NOT MAKE MORE WORKSPACES BECAUSE YOU LIKE IT, JUST FORK THIS REPO AND DO IT YOURSELF.
 
 ---
 **showcase**: soon(tm)
