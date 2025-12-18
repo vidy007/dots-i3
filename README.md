@@ -1,5 +1,6 @@
-![my logo](am[7DF7621].gif)
-
+<p align="center">
+    ![my logo](am[7DF7621].gif)
+</p>
 <h3 align="center">vidy's dots</h3>
 <p align="center">A configuration for a lightweight window manager.</p>
 
