@@ -1,5 +1,5 @@
 <p align="center">
-    ![my logo](am[7DF7621].gif)
+    <img src=https://raw.githubusercontent.com/vidy007/dots-i3/refs/heads/main/am[7DF7621].gif>
 </p>
 <h3 align="center">vidy's dots</h3>
 <p align="center">A configuration for a lightweight window manager.</p>
