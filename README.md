@@ -5,29 +5,27 @@ A config for a lightweight window manager.
 > This is my **personal** desktop configuration, which means i will NOT accept PRs and issues about it's look and feel.
 > 
 > Again, I WILL NOT MAKE MORE WORKSPACES BECAUSE YOU LIKE IT, JUST FORK THIS REPO AND DO IT YOURSELF.
-
-
-
 ---
+
 **showcase**
 --
 soon(tm)
---
+
 **app stack** 
-###### (bare minimum)
+(bare minimum)
 --
 ```
 alacritty dunst eww feh i3-gaps polybar rofi
 ```
---
+
 **wallpaper**
 --
 taken from [here](https://github.com/rose-pine/wallpapers)
---
+
 **miscellaneous**
 --
 *zsh + pure theme // neovim // pfetch // battery usage 0.7w*
---
+
 **troubleshooting**
 --
 — *polybar workspaces no worky*
