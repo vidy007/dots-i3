@@ -1,6 +1,9 @@
-# dots-i3
+![my logo](am[7DF7621].gif)
+**vidy's dots**
+
 A config for a lightweight window manager.
 
+---
 > [!WARNING]
 > This is my **personal** desktop configuration, which means i will NOT accept PRs and issues about it's look and feel.
 > 
