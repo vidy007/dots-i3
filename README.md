@@ -9,21 +9,27 @@ A config for a lightweight window manager.
 
 
 ---
-**showcase**: soon(tm)
-
-**app stack** (bare minimum):
+**showcase**
+--
+soon(tm)
+--
+**app stack** 
+###### (bare minimum)
+--
 ```
 alacritty dunst eww feh i3-gaps polybar rofi
 ```
-
-**wallpaper**: taken from [here](https://github.com/rose-pine/wallpapers)
-
-**miscellaneous**:
-*zsh + pure theme // neovim // pfetch*
-* cpu usage: <1%, 0.7w
-
-**troubleshooting**:
-
+--
+**wallpaper**
+--
+taken from [here](https://github.com/rose-pine/wallpapers)
+--
+**miscellaneous**
+--
+*zsh + pure theme // neovim // pfetch // battery usage 0.7w*
+--
+**troubleshooting**
+--
 — *polybar workspaces no worky*
 
 change the following line in its config:
