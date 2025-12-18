@@ -1,7 +1,7 @@
 ![my logo](am[7DF7621].gif)
-**vidy's dots**
 
-A config for a lightweight window manager.
+<h3 align="center">vidy's dots</h3>
+<p align="center">A configuration for a lightweight window manager.</p>
 
 ---
 > [!WARNING]
